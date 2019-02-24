@@ -10,6 +10,7 @@
   	<module>ars-svc</module>
   	<module>ars-controller</module>
   	<module>ars-web</module>
+  	<module>ars-web-ear</module>
   </modules>
   <name>AirReservationSystem</name>
   <description>AirReservationSystem parent</description>
